@@ -4,5 +4,5 @@ This is Notes for classes. Strongly welcome to point out its error, many thanks!
 Main language is Chinese, handscripts included.
 
 Operated by:
--FoxLithium, HEBUT
--laonianyexiuxian, DLUT
+\n-FoxLithium, HEBUT
+\n-laonianyexiuxian, DLUT
